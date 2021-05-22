@@ -1,20 +1,21 @@
 ---
 templateKey: index-page
-title: change directory -> chdir -> cd.dev
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Seja bem-vindo ao seu portal de desenvolvimento de software.
+title: Este é a plataforma cd.dev.br
+image: /img/pankaj-patel-byiw48klbmw-unsplash.jpg
+heading: Últimos artigos publicados
+subheading: Um lugar para se informar sobre código e desenvolvimento.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Por que cd.dev.br?
+  description: cd é um comando conhecido de quem está inserido no contexto das
+    linhas de comando de computadores. A sigla representa o comando básico
+    change directory, também conhecido como chdir, e que significa mudança de
+    diretório, uma operação comum. A premissa do cd.dev é trazer conteúdo
+    informativo relacionado a desenvolvimento de software para falantes de
+    Português.
+description: Aqui estão os últimos artigos criados pelos nossos colaboradores a
+  fim de informar e propagar conhecimento em torno do desenvolvimento de
+  software. Caso você tenha alguma sugestão, envie sua pauta ou texto para
+  io@cd.dev.br
 intro:
   blurbs:
     - image: /img/coffee.png
